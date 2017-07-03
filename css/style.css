@@ -1,0 +1,13 @@
+*
+{
+  margin: 0;
+  padding: 0;
+  outline: 0;
+}
+
+canvas
+{
+  background: url("../image/backgroung.jpg");
+  display: block;
+  margin: 0 auto;
+}
