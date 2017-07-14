@@ -1,0 +1,17 @@
+{
+  "name": "arkanoid-minigame",
+  "version": "1.0.0",
+  "description": "minigame",
+  "scripts": {
+    "start": "tsc --project ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puzatkin-ivan/ipuzatkin-minigame"
+  },
+  "author": "Ivan Puzatkin <puzatkin1998@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^2.4.1"
+  }
+}
